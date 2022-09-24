@@ -28,6 +28,10 @@ fetcher - set tokens decimal cache
 
 Install dependencies
 
+```sh
+npm i puffyswap-sdk
+install from npm for dapp usage
+
 
 ```sh
 yarn install
